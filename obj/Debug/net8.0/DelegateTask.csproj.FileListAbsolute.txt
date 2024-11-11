@@ -1,0 +1,14 @@
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\bin\Debug\net8.0\DelegateTask.exe
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\bin\Debug\net8.0\DelegateTask.deps.json
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\bin\Debug\net8.0\DelegateTask.runtimeconfig.json
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\bin\Debug\net8.0\DelegateTask.dll
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\bin\Debug\net8.0\DelegateTask.pdb
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfoInputs.cache
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfo.cs
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.dll
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\refint\DelegateTask.dll
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.pdb
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\DelegateTask.genruntimeconfig.cache
+C:\Users\Rahma\source\repos\Delegate\DelegateTask\obj\Debug\net8.0\ref\DelegateTask.dll
